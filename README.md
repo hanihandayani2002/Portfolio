@@ -1,2 +1,1 @@
-# Portfolio
- Hello, this is my portfolio when i was taking  course
+👋 Hello, I am Hani, and welcome to my portfolio. I am passionate about data analysis 📊 and machine learning 🤖. Here, I document my journey, projects, and learnings in these fields. I strive to create comprehensive and insightful documentation 📝 to help others and myself better understand the intricacies of data analysis and machine learning. Feel free to explore and connect with me!
